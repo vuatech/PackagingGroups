@@ -1,0 +1,4 @@
+#!/bin/sh 
+# This script queries dnf to find all group anmes currently in use.
+
+dnf repoquery --qf '%{group}' | sort | uniq | sort
