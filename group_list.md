@@ -1,6 +1,6 @@
 # OpenMandriva RPM Packge Group List
 
-Creatation Date: 2025-03-24
+Creation Date: 2025-03-24
 
 Accessibility
 
