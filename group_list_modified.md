@@ -6,8 +6,6 @@ Creation Date: 2025-03-24
 
 Accessibility
 
-Application,KDE,Qt,Utility
-
 Applications/Communications
 
 Applications/Desktop
@@ -38,14 +36,6 @@ Audio
 
 Backup
 
-Books/Computer books
-
-Books/Howtos
-
-Books/Literature
-
-Books/Other
-
 Communications
 
 Communications/Bluetooth
@@ -54,13 +44,7 @@ Communications/Radio
 
 Communications/Telephony
 
-COSMIC
-
 Databases
-
-Desktop/COSMIC
-
-Desktop/WM
 
 development
 
@@ -164,19 +148,7 @@ Development/Vala
 
 Development/X11
 
-Documentation
-
-Documentation/HTML
-
-Documentation/Other
-
 Drivers
-
-Editors
-
-Editors/Enlightenment
-
-Editors/GNOME
 
 Education
 
@@ -526,13 +498,13 @@ System/X11/Utilities/NWG
 
 System/X11/Wayland
 
-Terminal
+Terminal ()
 
-Terminal/Audio
+Terminal/Audio ()
 
-Terminals
+Terminal/Editors ()
 
-Text/Editors
+Terminals ()
 
 Text tools
 
@@ -572,24 +544,24 @@ Video/Television
 
 Video/Utilities
 
-Wallpapers/COSMIC
-
 Wayland
 
 Wayland/Utils
 
-WM/NWG
+Window Manager ()
 
-Window Manager
+Window Manager/Display Manager ()
 
-Window Manager/Hyprland
+Window Manager/Hyprland ()
 
 Window Manager/Hyprland/Wayland (place holder)
 
-Window Manager/Hyprland/NWG
+Window Manager/Hyprland/NWG (?)
 
-Window Manager/Icewm
+Window Manager/Icewm ()
 
-Window Manager/Wayland Utilities
+Window Manager/Miracle ()
 
-Window Manager/Wayfire
+Window Manager/Wayland Utilities (?)
+
+Window Manager/Wayfire ()
