@@ -6,6 +6,8 @@ Creation Date: 2025-03-24
 
 Accessibility
 
+                                      # Application Root Purpose: ??
+
 Applications/Communications
 
 Applications/Desktop
@@ -24,6 +26,8 @@ Applications/System
 
 Applications/Video
 
+                                      #Archiving Root Purpose: Holds programs related to creating or extracting archives
+
 Archiving/Backup
 
 Archiving/Cd burning
@@ -32,9 +36,13 @@ Archiving/Compression
 
 Archiving/Other
 
+                                      #Audio Root Purpose:
+
 Audio
 
 Backup
+
+                                      #Communications Root Purpose:
 
 Communications
 
@@ -46,7 +54,7 @@ Communications/Telephony
 
 Databases
 
-development
+                                      #DevelopmentRoot Purpose: Holds programs generally with a -devel ending
 
 Development
 
@@ -154,17 +162,13 @@ Education
 
 Embedded
 
-Emulator/Games
-
-Emulators
-
-Emulators/Games
-
 Extra
 
 File tools
 
 Fonts
+
+                                      #Games Root Purpose: Holds programs that are either games or have a game focus (not wine but proton)
 
 Games
 
@@ -177,6 +181,8 @@ Games/Arcade
 Games/Boards
 
 Games/Cards
+
+Games/Emulators ()
 
 Games/FPS
 
@@ -199,6 +205,8 @@ Games/Sports
 Games/Strategy
 
 Geography
+
+                                      #Graphical Desktop Root Purpose: Holds programs that made and maintained as a package deal for the Desktop Environment 
 
 Graphical Desktop ()
 
@@ -271,6 +279,8 @@ Internet/Web browser
 Libraries
 
 Monitoring
+
+                                      #Multimedia Root Purpose: Potentially holding codec 
 
 Multimedia
 
@@ -366,6 +376,8 @@ Servers/Groupware
 
 Shells
 
+                                      #Sound Root Purpose:
+
 Sound
 
 Sound/Editors and Converters
@@ -406,8 +418,6 @@ System/Configuration/Printing
 
 System/Configuration/ROCm
 
-System/Deepin
-
 System/Emulators/Other
 
 System/Emulators/PC
@@ -442,13 +452,9 @@ System/GUI/Wayland
 
 System/Hardware
 
-System/Hyprland
-
 System/Internationalization
 
 System/Kernel and hardware
-
-system/libraries
 
 System/Libraries
 
@@ -457,8 +463,6 @@ System/Libraries/C
 System/Libraries/C_C++
 
 System/Libraries/Cinnamon
-
-System/libraries/games
 
 System/Libraries/Wayfire
 
@@ -498,6 +502,8 @@ System/X11/Utilities/NWG
 
 System/X11/Wayland
 
+                                      #Terminal Root Purpose: Holding programs that usually are standalone and interact purely through the terminal (nano, vi, others)
+
 Terminal ()
 
 Terminal/Audio ()
@@ -528,9 +534,9 @@ Utilities
 
 Utility
 
-Utility/Hyprland
-
 Utility/Stress Test
+
+                                      #Video Root Purpose:
 
 Video
 
@@ -544,9 +550,15 @@ Video/Television
 
 Video/Utilities
 
+                                      #Virtualization Root Purpose: Holds programs that virtualize environments (qemu, virtualbox, or docker)
+
+Virtualization ()
+
 Wayland
 
 Wayland/Utils
+
+                                      #Window Manager Root Purpose: Holds programs that are part of window manager releases or are not shipped with a desktop environment or would be usable with one (swww wallpaper manager or waybar)
 
 Window Manager ()
 
