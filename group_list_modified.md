@@ -562,13 +562,13 @@ Wayland/Utils
 
 Window Manager ()
 
+Window Manager/Bar (Things like quickshell, waybar, ironbar, polybar)
+
 Window Manager/Display Manager ()
 
 Window Manager/Hyprland ()
 
 Window Manager/Hyprland/Wayland (place holder)
-
-Window Manager/Hyprland/NWG (?)
 
 Window Manager/Icewm ()
 
