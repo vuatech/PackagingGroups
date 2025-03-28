@@ -230,8 +230,6 @@ Graphical Desktop/COSMIC/Utility ()
 
 Graphical Desktop/Enlightenment ()
 
-Graphical Desktop/FVWM based
-
 Graphical Desktop/GNOME ()
 
 Graphical Desktop/KDE ()
@@ -528,10 +526,6 @@ User interface/Desktops
 
 User Interface/Desktops
 
-Utilites
-
-Utilities
-
 Utility
 
 Utility/Stress Test
@@ -565,6 +559,8 @@ Window Manager ()
 Window Manager/Bar (Things like quickshell, waybar, ironbar, polybar)
 
 Window Manager/Display Manager ()
+
+Window Manager/FVWM based
 
 Window Manager/Hyprland ()
 
