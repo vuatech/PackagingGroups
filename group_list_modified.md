@@ -6,7 +6,7 @@ Creation Date: 2025-03-24
 
 Accessibility
 
-Application,KDE,Qt,Utility
+                                      # Application Root Purpose: ??
 
 Applications/Communications
 
@@ -26,6 +26,8 @@ Applications/System
 
 Applications/Video
 
+                                      #Archiving Root Purpose: Holds programs related to creating or extracting archives
+
 Archiving/Backup
 
 Archiving/Cd burning
@@ -34,17 +36,13 @@ Archiving/Compression
 
 Archiving/Other
 
+                                      #Audio Root Purpose:
+
 Audio
 
 Backup
 
-Books/Computer books
-
-Books/Howtos
-
-Books/Literature
-
-Books/Other
+                                      #Communications Root Purpose:
 
 Communications
 
@@ -54,15 +52,9 @@ Communications/Radio
 
 Communications/Telephony
 
-COSMIC
-
 Databases
 
-Desktop/COSMIC
-
-Desktop/WM
-
-development
+                                      #DevelopmentRoot Purpose: Holds programs generally with a -devel ending
 
 Development
 
@@ -164,35 +156,19 @@ Development/Vala
 
 Development/X11
 
-Documentation
-
-Documentation/HTML
-
-Documentation/Other
-
 Drivers
-
-Editors
-
-Editors/Enlightenment
-
-Editors/GNOME
 
 Education
 
 Embedded
-
-Emulator/Games
-
-Emulators
-
-Emulators/Games
 
 Extra
 
 File tools
 
 Fonts
+
+                                      #Games Root Purpose: Holds programs that are either games or have a game focus (not wine but proton)
 
 Games
 
@@ -205,6 +181,8 @@ Games/Arcade
 Games/Boards
 
 Games/Cards
+
+Games/Emulators ()
 
 Games/FPS
 
@@ -228,6 +206,8 @@ Games/Strategy
 
 Geography
 
+                                      #Graphical Desktop Root Purpose: Holds programs that made and maintained as a package deal for the Desktop Environment 
+
 Graphical Desktop ()
 
 Graphical Desktop/Budgie ()
@@ -249,8 +229,6 @@ Graphical Desktop/COSMIC/Toold ()
 Graphical Desktop/COSMIC/Utility ()
 
 Graphical Desktop/Enlightenment ()
-
-Graphical Desktop/FVWM based
 
 Graphical Desktop/GNOME ()
 
@@ -299,6 +277,8 @@ Internet/Web browser
 Libraries
 
 Monitoring
+
+                                      #Multimedia Root Purpose: Potentially holding codec 
 
 Multimedia
 
@@ -394,6 +374,8 @@ Servers/Groupware
 
 Shells
 
+                                      #Sound Root Purpose:
+
 Sound
 
 Sound/Editors and Converters
@@ -434,8 +416,6 @@ System/Configuration/Printing
 
 System/Configuration/ROCm
 
-System/Deepin
-
 System/Emulators/Other
 
 System/Emulators/PC
@@ -470,13 +450,9 @@ System/GUI/Wayland
 
 System/Hardware
 
-System/Hyprland
-
 System/Internationalization
 
 System/Kernel and hardware
-
-system/libraries
 
 System/Libraries
 
@@ -485,8 +461,6 @@ System/Libraries/C
 System/Libraries/C_C++
 
 System/Libraries/Cinnamon
-
-System/libraries/games
 
 System/Libraries/Wayfire
 
@@ -526,13 +500,15 @@ System/X11/Utilities/NWG
 
 System/X11/Wayland
 
-Terminal
+                                      #Terminal Root Purpose: Holding programs that usually are standalone and interact purely through the terminal (nano, vi, others)
 
-Terminal/Audio
+Terminal ()
 
-Terminals
+Terminal/Audio ()
 
-Text/Editors
+Terminal/Editors ()
+
+Terminals ()
 
 Text tools
 
@@ -550,15 +526,11 @@ User interface/Desktops
 
 User Interface/Desktops
 
-Utilites
-
-Utilities
-
 Utility
 
-Utility/Hyprland
-
 Utility/Stress Test
+
+                                      #Video Root Purpose:
 
 Video
 
@@ -572,24 +544,32 @@ Video/Television
 
 Video/Utilities
 
-Wallpapers/COSMIC
+                                      #Virtualization Root Purpose: Holds programs that virtualize environments (qemu, virtualbox, or docker)
+
+Virtualization ()
 
 Wayland
 
 Wayland/Utils
 
-WM/NWG
+                                      #Window Manager Root Purpose: Holds programs that are part of window manager releases or are not shipped with a desktop environment or would be usable with one (swww wallpaper manager or waybar)
 
-Window Manager
+Window Manager ()
 
-Window Manager/Hyprland
+Window Manager/Bar (Things like quickshell, waybar, ironbar, polybar)
+
+Window Manager/Display Manager ()
+
+Window Manager/FVWM based
+
+Window Manager/Hyprland ()
 
 Window Manager/Hyprland/Wayland (place holder)
 
-Window Manager/Hyprland/NWG
+Window Manager/Icewm ()
 
-Window Manager/Icewm
+Window Manager/Miracle ()
 
-Window Manager/Wayland Utilities
+Window Manager/Wayland Utilities (?)
 
-Window Manager/Wayfire
+Window Manager/Wayfire ()
