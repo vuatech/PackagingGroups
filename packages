@@ -1,0 +1,9 @@
+#!/bin/bash 
+
+if [ -z $1 ]; then 
+    echo "This script prints all packages that are in a group."
+    echo "Usage: packages <group> " 
+    exit 
+fi
+
+dnf repoquery  -q --qf "%{group}\t%{name}" | grep "^${1}" | awk -F'\\t' "{ print \$2}"
