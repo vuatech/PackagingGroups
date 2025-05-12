@@ -6,7 +6,9 @@ Creation Date: 2025-03-24
 
 Accessibility
 
-                                      # Application Root Purpose: ??
+                                      # Application Root Purpose: Gui Based Application That Users Interact With
+
+Applications/Audio ()
 
 Applications/Communications
 
@@ -36,9 +38,6 @@ Archiving/Compression
 
 Archiving/Other
 
-                                      #Audio Root Purpose:
-
-Audio
 
 Backup
 
@@ -157,6 +156,10 @@ Development/Vala
 Development/X11
 
 Drivers
+
+                                      # Documentation Root Purpose: Comains Any Reading Materials such as Man pages and docs
+
+Documentation ()
 
 Education
 
@@ -285,10 +288,6 @@ Multimedia
 Multimedia/Internet
 
 Multimedia/Video
-
-Music
-
-Music/Audio
 
 Network
 
