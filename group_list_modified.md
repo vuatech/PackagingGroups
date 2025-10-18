@@ -18,6 +18,8 @@ Applications/Editors
 
 Applications/Internet
 
+Applications/Music
+
 Applications/Productivity
 
 Applications/Productivity/Maui
